@@ -26,7 +26,7 @@ class StandardOutput():
     def __init__(self):
         self.banner = '''
 ====================================================================                                                                    
-| Password Stealer Module v3.0           by @sulemanmalik_3        |                                                      
+ Password Stealer Module v3.0           by @sulemanmalik_3                                                              
 ====================================================================
 '''
 
